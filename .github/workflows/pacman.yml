@@ -1,0 +1,33 @@
+name: GitHub Pacman Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Animation
+        # Ganti ini dengan action atau script yang Onii-chan pakai
+        run: |
+          echo "Running pacman animation script..."
+          # misalnya: node generate-pacman.js
+          # atau python pacman_generator.py
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update pacman animation [skip ci]"
