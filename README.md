@@ -1,14 +1,17 @@
+<img src="assets/Midori.gif" alt="Midori" width="1000"/>
+
+
 <h1 align="center">Hi 👋! My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to go to Japan</h1>
 
 
 <br clear="both">
 
-![snake_gif](https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg)
+![snake_gif](https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg) 
 
 
 ###
 
-<div align="center">
+<img align="right" height="150" src="https://media.tenor.com/qU4ra1rU0gwAAAAi/japan-jpn.gif" /> <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Finsa-SC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Finsa-SC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -16,8 +19,8 @@
 ###
 <br><br>
 
-# 💫 About Me 
-- 🧑🏻‍💻 I’m currently a student focused on computer science and artificial intelligence  <img align="right" height="250" src="https://media.tenor.com/70oN0TiQu1QAAAAi/spring-spin.gif" />
+# 💫 About Me <img align="right" height="300" src="https://media.tenor.com/nW_yTOndgdcAAAAi/heart-cat.gif" />
+- 🧑🏻‍💻 I’m currently a student focused on computer science and artificial intelligence  
 - 🔭 Currently working on local AI models and fine-tuning with LoRA (Mistral-based)
 - 🌱 Learning ML, DL, CV and more about AI
 - 🐧 Daily driver: Ubuntu, terminal-first workflow (I love CLI!)  
@@ -30,7 +33,7 @@
 <br><br>
 #
 <div align="center">
-  <h2>💻 Tech Stack:</h2>
+  <h2>💻 Tech Stack</h2>
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -60,7 +63,7 @@
 ##
 
 <div align="center">
-  <h1>📊 GitHub Stats:</h1>
+  <h1>📊 GitHub Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Finsa-SC&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Finsa-SC&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finsa-SC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -127,8 +130,6 @@
 
 ##
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Finsa-SC/Finsa-SC/output/pacman-contribution-graph.svg">
-
 
 ### 💌 Special Thanks <img align="right" height="250" src="https://media.tenor.com/GTmOrVA7GS0AAAAi/sigh.gif" />
 > Thanks for scrolling this far! >///<  
@@ -138,4 +139,17 @@ Don't forget to give a ⭐ if you like my work!
 じゃあね！(See you~)
 
 
-## My Active Platform
+##
+<br><br>
+
+## 🌐 My Active Platform
+<p align="center">
+  <a href="https://www.youtube.com/@Mikohara" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@fairy_3.5_evo" target="_blank">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+
