@@ -13,7 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Finsa-SC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-####
+###
+<br><br>
 
 # 💫 About Me 
 - 🧑🏻‍💻 I’m currently a student focused on computer science and artificial intelligence  <img align="right" height="250" src="https://media.tenor.com/70oN0TiQu1QAAAAi/spring-spin.gif" />
@@ -25,7 +26,8 @@
 - 🐍 I really like the python programming language
 - ☀️ I always make projects on my daily
 
-
+<br><br>
+<br><br>
 #
 <div align="center">
   <h2>💻 Tech Stack:</h2>
@@ -93,6 +95,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   <img src="https://img.shields.io/static/v1?message=Ollama&logo=ollama&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ollama logo" />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+  <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo" />
+  <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stack-overflow&label=&color=F58025&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stack overflow logo" />
 </div>
 
 ###
@@ -130,3 +136,6 @@ Let's connect and build cool things together~ ✨
 Don't forget to give a ⭐ if you like my work! 
 
 じゃあね！(See you~)
+
+
+## My Active Platform
