@@ -127,11 +127,11 @@
   <img src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif" height="450" />
 </p>
 
+<img align="right" height="250" src="https://media.tenor.com/oOr1SKUu88oAAAAi/maplesaku-vtuber.gif" />
 
 ##
 
-
-### 💌 Special Thanks <img align="right" height="250" src="https://media.tenor.com/GTmOrVA7GS0AAAAi/sigh.gif" />
+### 💌 Special Thanks 
 > Thanks for scrolling this far! >///<  
 Let's connect and build cool things together~ ✨  
 Don't forget to give a ⭐ if you like my work! 
@@ -151,5 +151,24 @@ Don't forget to give a ⭐ if you like my work!
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
+
+## 📞 Contact Me
+
+<p align="center">
+  <a href="https://www.instagram.com/finsa080200/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61575076614708" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://x.com/Finsa_Kusuma" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://t.me/@finsakusuma" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+[![Email](https://img.shields.io/badge/Email-finsakusumaputra@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:finsakusumaputra@gmail.com)
 
 
