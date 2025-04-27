@@ -1,8 +1,12 @@
 <img src="assets/gifMidori.gif" alt="Midori" width="1000"/>
 
 
-<h1 align="center">Hi 👋! My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to go to Japan</h1>
-
+<h1 align="center"> </h1>
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />!
+My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to go to Japan
+</h1>
 
 <br clear="both">
 
@@ -19,7 +23,12 @@
 ###
 <br><br>
 
-# 💫 About Me <img align="right" height="300" src="https://media.tenor.com/nW_yTOndgdcAAAAi/heart-cat.gif" />
+
+<h1 align="center">
+  <img src="https://media.tenor.com/xn_BcZPJh6YAAAAi/stars-catharinas.gif" width="40px" height="40px" />
+  About Me <img align="right" height="300" src="https://media.tenor.com/nW_yTOndgdcAAAAi/heart-cat.gif" />
+</h1> 
+
 - 🧑🏻‍💻 I’m currently a student focused on computer science and artificial intelligence  
 - 🔭 Currently working on local AI models and fine-tuning with LoRA (Mistral-based)
 - 🌱 Learning ML, DL, CV and more about AI
@@ -32,8 +41,11 @@
 <br><br>
 <br><br>
 #
+<h1 align="center">
+  <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40px" height="40px" />
+  Tech Stack
+</h1>
 <div align="center">
-  <h2>💻 Tech Stack</h2>
   <h2> Programming Languages </h2>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -78,11 +90,16 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&logoWidth=40)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&logoWidth=40)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&logoWidth=40)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=black&logoWidth=40&labelColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoWidth=40)
 
 ##
 
+<h1 align="center">
+  <img src="https://media.tenor.com/hFWEUsC7rc0AAAAi/curious-piyuesh-piyueshmodi.gif" width="60px" height="60px" />
+  GitHub Stats
+</h1>
 <div align="center">
-  <h1>📊 GitHub Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Finsa-SC&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Finsa-SC&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finsa-SC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -125,18 +142,30 @@
 
 ###
 
-### 🔝 Top Contributed Repo <img align="right" height="250" src="https://media.tenor.com/gOp8bD7hGDYAAAAi/wsgrhh.gif" />
+<h1 align="center">
+  <img src="https://media.tenor.com/OM9TmDtl0akAAAAi/krone-crown.gif" width="40px" height="40px" />
+  Top Contributed Repo <img align="right" height="250" src="https://media.tenor.com/gOp8bD7hGDYAAAAi/wsgrhh.gif" />
+</h1>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Finsa-SC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Finsa-SC&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h1 align="center">
+  <img src="https://media.tenor.com/8Er0lHRnauMAAAAi/trophy.gif" width="40px" height="40px" />
+  GitHub Trophies
+</h1>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Finsa-SC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ###
-## ❤️ What i like?
+
+<h1 align="center">
+  <img src="https://media.tenor.com/iNdYjrgY90MAAAAi/red-heart-bumping.gif" width="40px" height="40px" />
+  What i like?
+</h1>
+
 > ###  I like a woman with long white hair, she often rides a broom to sell, she often wears a big hat. His eyes were purplish, wearing purple robes and having a pleasant voice to hear. I hope there will be S2 for that <br> (Who is that?)
 
 
@@ -150,7 +179,11 @@
 
 ##
 
-### 💌 Special Thanks 
+<h1 align="center">
+  <img src="https://media.tenor.com/ng7Ka-NSihoAAAAi/letter-loveletter.gif" width="40px" height="40px" />
+  Special Thanks 
+</h1>
+
 > Thanks for scrolling this far! >///<  
 Let's connect and build cool things together~ ✨  
 Don't forget to give a ⭐ if you like my work! 
@@ -161,7 +194,10 @@ Don't forget to give a ⭐ if you like my work!
 ##
 <br><br>
 
-## 🌐 My Active Platform
+<h1 align="center">
+  <img src="https://media.tenor.com/5zJHZGOIMzMAAAAi/like-aam.gif" width="40px" height="40px" />
+  My Active Platform
+</h1>
 <p align="center">
   <a href="https://www.youtube.com/@Mikohara" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -171,7 +207,10 @@ Don't forget to give a ⭐ if you like my work!
   </a>
 </p>
 
-## 📞 Contact Me
+<h1 align="center">
+  <img src="https://media.tenor.com/oZZYN34BQXwAAAAi/cell-phone.gif" width="50px" height="50px" />
+  Contact Me
+</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/finsa080200/" target="_blank">
@@ -187,7 +226,8 @@ Don't forget to give a ⭐ if you like my work!
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
-[![Email](https://img.shields.io/badge/Email-finsakusumaputra@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:finsakusumaputra@gmail.com)
-
-
+<p align="center">
+  <a href="mailto:finsakusumaputra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-finsakusumaputra@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
