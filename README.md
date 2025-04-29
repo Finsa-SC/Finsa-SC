@@ -1,17 +1,14 @@
 <img src="assets/gifMidori.gif" alt="Midori" width="1000"/>
 
-
-<h1 align="center"> </h1>
 <h1 align="center">
   Hi 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />!
-My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to go to Japan
+I'm a student from Indonesia with a strong passion for working in Japan.
 </h1>
 
 <br clear="both">
 
 ![snake_gif](https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg) 
-
 
 ###
 
@@ -35,8 +32,8 @@ My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to g
 - 🐧 Daily driver: Ubuntu, terminal-first workflow (I love CLI!)  
 - 🧠 I always look for knowledge every day
 - 🎯 My long-term goal is to work in the tech industry in Japan  
-- 🐍 I really like the python programming language
-- ☀️ I always make projects on my daily
+- 🐍 I really like the Python programming language
+- ☀️ I build projects as part of my daily routine
 
 <br><br>
 <br><br>
@@ -46,8 +43,7 @@ My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to g
   Tech Stack
 </h1>
 <div align="center">
-  <h2> Programming Languages </h2>
-  
+  <h3>Programming Language</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
@@ -59,68 +55,69 @@ My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
 </div>
 
-<div align="left">
-  
-</div>
-
 ### Databases Management System
+<div align="center">
+  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=40)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&logoWidth=40)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=40)
 ![Sqlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=40)
+</div>
 
-### Frameworks & Libraries
+### AI & ML Frameworks
+<div align="center">
+  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=40)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=40)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=40)
-![Face Recognition](https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoWidth=40)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoWidth=40)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=40)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoWidth=40)
+![Face Recognition](https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
+</div>
 
+### Web & API Frameworks
+<div align="center">
+
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2D2A56?style=for-the-badge&logo=uvicorn&logoColor=white&logoWidth=40)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&logoWidth=40)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoWidth=40)
+</div>
 
 ### Tools & Technologies
+<div align="center">
+  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=40)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=40)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&logoWidth=40)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=40)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&logoWidth=40)
+</div>
+
+<div align="center">
+  
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=black&logoWidth=40&labelColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoWidth=40)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&logoWidth=40)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&logoWidth=40)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&logoWidth=40)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=black&logoWidth=40&labelColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoWidth=40)
+![Ollama](https://img.shields.io/static/v1?message=Ollama&logo=ollama&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+</div>
 
 ##
 
 <h1 align="center">
   <img src="https://media.tenor.com/hFWEUsC7rc0AAAAi/curious-piyuesh-piyueshmodi.gif" width="60px" height="60px" />
-  GitHub Stats
+  GitHub Stats & Contributions
 </h1>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Finsa-SC&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Finsa-SC&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finsa-SC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
+![](https://github-contributor-stats.vercel.app/api?username=Finsa-SC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=Finsa-SC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-##
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoft sql server logo" />
 </div>
 
 ##
@@ -144,76 +141,13 @@ My name is Finsa Kusuma Putra and I'm a Student, from Indonesia, but I want to g
 ###
 
 <h1 align="center">
-  <img src="https://media.tenor.com/OM9TmDtl0akAAAAi/krone-crown.gif" width="40px" height="40px" />
-  Top Contributed Repo <img align="right" height="250" src="https://media.tenor.com/gOp8bD7hGDYAAAAi/wsgrhh.gif" />
-</h1>
-
-![](https://github-contributor-stats.vercel.app/api?username=Finsa-SC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Finsa-SC&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<h1 align="center">
-  <img src="https://media.tenor.com/8Er0lHRnauMAAAAi/trophy.gif" width="40px" height="40px" />
-  GitHub Trophies
-</h1>
-
-![](https://github-profile-trophy.vercel.app/?username=Finsa-SC&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-###
-
-<h1 align="center">
-  <img src="https://media.tenor.com/iNdYjrgY90MAAAAi/red-heart-bumping.gif" width="40px" height="40px" />
-  What i like?
-</h1>
-
-> ###  I like a woman with long white hair, she often rides a broom to sell, she often wears a big hat. His eyes were purplish, wearing purple robes and having a pleasant voice to hear. I hope there will be S2 for that <br> (Who is that?)
-
-
-####
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/FTryuAk9O1sAAAAC/majo-no-tabitabi-the-journey-of-elaina.gif" height="450" />
-</p>
-
-<img align="right" height="250" src="https://media.tenor.com/oOr1SKUu88oAAAAi/maplesaku-vtuber.gif" />
-
-##
-
-<h1 align="center">
-  <img src="https://media.tenor.com/ng7Ka-NSihoAAAAi/letter-loveletter.gif" width="40px" height="40px" />
-  Special Thanks 
-</h1>
-
-> Thanks for scrolling this far! >///<  
-Let's connect and build cool things together~ ✨  
-Don't forget to give a ⭐ if you like my work! 
-
-じゃあね！(See you~)
-
-
-##
-<br><br>
-
-<h1 align="center">
-  <img src="https://media.tenor.com/5zJHZGOIMzMAAAAi/like-aam.gif" width="40px" height="40px" />
-  My Active Platform
-</h1>
-<p align="center">
-  <a href="https://www.youtube.com/@Mikohara" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@fairy_3.5_evo" target="_blank">
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
-
-<h1 align="center">
   <img src="https://media.tenor.com/oZZYN34BQXwAAAAi/cell-phone.gif" width="50px" height="50px" />
-  Contact Me
+  Connect With Me
 </h1>
 
-<p align="center">
+
+<div align="center">
+  <h3> Social Media </h3>
   <a href="https://www.instagram.com/finsa080200/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -226,9 +160,32 @@ Don't forget to give a ⭐ if you like my work!
   <a href="https://t.me/@finsakusuma" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />
+  </a>
   <a href="mailto:finsakusumaputra@gmail.com">
     <img src="https://img.shields.io/badge/Email-finsakusumaputra@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
+
+<h1 align="center">
+  <img src="https://media.tenor.com/5zJHZGOIMzMAAAAi/like-aam.gif" width="40px" height="40px" />
+  Content Creation
+</h1>
+
+<div align="center">
+  <a href="https://www.youtube.com/@Mikohara" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@fairy_3.5_evo" target="_blank">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  Thanks for visiting my profile! Let's connect and build cool things together! ✨<br>
+  Don't forget to give a ⭐ if you like my work!
+</div>
+
