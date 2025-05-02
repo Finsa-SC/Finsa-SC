@@ -36,8 +36,58 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 - ☀️ I build projects as part of my daily routine
 
 <br><br>
-<br><br>
+
+<h1 align="center">
+  <img src="https://media.tenor.com/2jQhjfsDZSEAAAAi/advance-emoji-no-copyright-emoji.gif" width="60px" height="60px" />
+  what did I learn and did I make?
+</h1>
+
+
+<h1 align="left" style="font-size: 24px;">
+  <img src="https://media.tenor.com/Yx9DVdX32NAAAAAi/brain.gif" width="30px" height="30px" />
+  Artificial Intelligence
+</h1>
+
+> I studied AI to understand how machines can mimic human intelligence and decision-making.
+  It's the foundation for building smart systems like chatbots, recommendation engines, or autonomous agents.
+
+<h1 align="left" style="font-size: 24px;">
+  <img src="https://media.tenor.com/LY8bM4ni7FsAAAAi/teacher-education.gif" width="50px" height="50px" />
+  Mechine Learning
+</h1>
+
+> I focused on machine learning to train models from data, without being explicitly programmed.
+  I explored supervised learning, regression, and classification — and applied it to practical mini-projects.
+
+
+<h1 align="left" style="font-size: 24px;">
+  <img src="https://media.tenor.com/_y4rB06u3JYAAAAi/squad-team.gif" width="40px" height="40px" />
+  Deep Learning
+</h1>
+
+> I went deeper into neural networks, exploring how layers of computation help in recognizing complex patterns.
+  I learned about CNNs and used them for image-based tasks, including computer vision challenges.
+
+
+<h1 align="left" style="font-size: 24px;">
+  <img src="https://media.tenor.com/VDXyAUdbqQ8AAAAi/creepy-radio.gif" width="30px" height="30px" />
+  Computer Vision
+</h1>
+
+> I learned computer vision because I wanted to build systems that can "see" like humans —
+  whether it's for recognizing objects, reading handwriting, or helping robots navigate.
+  I made a digit recognizer using image processing and classification models!
+
+<h1 align="left" style="font-size: 24px;">
+  <img src="https://media.tenor.com/NBKNM3Sw4jMAAAAi/gears.gif" width="50px" height="30px" />
+  Automation
+</h1>
+
+> I explored automation to improve efficiency and eliminate repetitive tasks.
+  I learned to write Python scripts and APIs to automate data processing, testing, and even deployment flows.
+
 #
+
 <h1 align="center">
   <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40px" height="40px" />
   Tech Stack
