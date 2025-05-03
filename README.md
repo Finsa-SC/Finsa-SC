@@ -68,6 +68,13 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 > I went deeper into neural networks, exploring how layers of computation help in recognizing complex patterns.
   I learned about CNNs and used them for image-based tasks, including computer vision challenges.
 
+<h1 align="left" style="font-size: 24px;">
+  <img src="https://media.tenor.com/EtSxmQ8JUyYAAAAi/playstation-controler.gif" width="35px" height="30px" />
+  Reinforcement Learning
+</h1>
+
+> I explored Reinforcement Learning to understand how agents can learn optimal actions through rewards and interactions with their environment.
+  I experimented with classic algorithms like Q-Learning and DQN, applying them to simple games and navigation tasks to see how an agent improves over time without explicit labels.
 
 <h1 align="left" style="font-size: 24px;">
   <img src="https://media.tenor.com/VDXyAUdbqQ8AAAAi/creepy-radio.gif" width="30px" height="30px" />
