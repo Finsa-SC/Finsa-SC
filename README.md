@@ -59,6 +59,9 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 > I focused on machine learning to train models from data, without being explicitly programmed.
   I explored supervised learning, regression, and classification — and applied it to practical mini-projects.
 
+Real-world Projects:
+[Bot Telegram](https://github.com/Finsa-SC/bot-telegram) [Digit Recognition](https://github.com/Finsa-SC/digit-recognition) 
+#
 
 <h1 align="left" style="font-size: 24px;">
   <img src="https://media.tenor.com/_y4rB06u3JYAAAAi/squad-team.gif" width="40px" height="40px" />
@@ -68,6 +71,10 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 > I went deeper into neural networks, exploring how layers of computation help in recognizing complex patterns.
   I learned about CNNs and used them for image-based tasks, including computer vision challenges.
 
+Real-world Projects:
+[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html) 
+#
+
 <h1 align="left" style="font-size: 24px;">
   <img src="https://media.tenor.com/EtSxmQ8JUyYAAAAi/playstation-controler.gif" width="35px" height="30px" />
   Reinforcement Learning
@@ -75,6 +82,10 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 
 > I explored Reinforcement Learning to understand how agents can learn optimal actions through rewards and interactions with their environment.
   I experimented with classic algorithms like Q-Learning and DQN, applying them to simple games and navigation tasks to see how an agent improves over time without explicit labels.
+
+Real-world Projects:
+[Frozen Lake](https://github.com/Finsa-SC/FrozenLake) 
+#
 
 <h1 align="left" style="font-size: 24px;">
   <img src="https://media.tenor.com/VDXyAUdbqQ8AAAAi/creepy-radio.gif" width="30px" height="30px" />
@@ -85,6 +96,10 @@ I'm a student from Indonesia with a strong passion for working in Japan.
   whether it's for recognizing objects, reading handwriting, or helping robots navigate.
   I made a digit recognizer using image processing and classification models!
 
+Real-world Projects:
+[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html) [Digit Recognition](https://github.com/Finsa-SC/digit-recognition)
+#
+
 <h1 align="left" style="font-size: 24px;">
   <img src="https://media.tenor.com/NBKNM3Sw4jMAAAAi/gears.gif" width="50px" height="30px" />
   Automation
@@ -93,6 +108,8 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 > I explored automation to improve efficiency and eliminate repetitive tasks.
   I learned to write Python scripts and APIs to automate data processing, testing, and even deployment flows.
 
+Real-world Projects:
+[Github_Uploader](https://github.com/Finsa-SC/-AutoGitHub-Uploader-) [Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html) [Virtual Assistans](https://github.com/Finsa-SC/Virtual-Assistans)
 #
 
 <h1 align="center">
