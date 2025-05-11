@@ -178,6 +178,8 @@ Real-world Projects:
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&logoWidth=40)
 ![Ollama](https://img.shields.io/static/v1?message=Ollama&logo=ollama&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoWidth=40)
+![CSV](https://img.shields.io/badge/CSV-FFD700?style=for-the-badge&logo=filezilla&logoColor=black&logoWidth=40)
+
 </div>
 
 ##
