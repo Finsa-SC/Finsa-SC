@@ -199,22 +199,6 @@ Real-world Projects:
 
 ##
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-  <img src="https://img.shields.io/static/v1?message=Ollama&logo=ollama&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ollama logo" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo" />
-  <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stack-overflow&label=&color=F58025&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stack overflow logo" />
-</div>
-
 ###
 
 <h1 align="center">
