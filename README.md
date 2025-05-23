@@ -43,74 +43,93 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 </h1>
 
 
-<h1 align="left" style="font-size: 24px;">
-  <img src="https://media.tenor.com/Yx9DVdX32NAAAAAi/brain.gif" width="30px" height="30px" />
-  Artificial Intelligence
-</h1>
+# 🚀 Learning Journey
 
-> I studied AI to understand how machines can mimic human intelligence and decision-making.
-  It's the foundation for building smart systems like chatbots, recommendation engines, or autonomous agents.
+Here's my learning journey in the ever-evolving field of technology. Each domain I've explored offers unique challenges and attractions that drive me to continuously explore and develop my capabilities.
 
-<h1 align="left" style="font-size: 24px;">
-  <img src="https://media.tenor.com/LY8bM4ni7FsAAAAi/teacher-education.gif" width="50px" height="50px" />
-  Mechine Learning
-</h1>
+---
 
-> I focused on machine learning to train models from data, without being explicitly programmed.
-  I explored supervised learning, regression, and classification — and applied it to practical mini-projects.
+## 🤖 Artificial Intelligence (AI)
 
-Real-world Projects:
-[Bot Telegram](https://github.com/Finsa-SC/bot-telegram) [Digit Recognition](https://github.com/Finsa-SC/digit-recognition) 
-#
+### Why AI?
+AI fascinates me because of its ability to mimic human intelligence and solve complex problems. I believe AI is the future of technology that will transform how we interact with the digital world. This field provides opportunities to create innovative solutions that can enhance our daily lives.
 
-<h1 align="left" style="font-size: 24px;">
-  <img src="https://media.tenor.com/_y4rB06u3JYAAAAi/squad-team.gif" width="40px" height="40px" />
-  Deep Learning
-</h1>
+### Projects:
+- **[Virtual Assistant](https://github.com/Finsa-SC/Virtual-Assistans)** - Windows-based virtual assistant with AI capabilities
 
-> I went deeper into neural networks, exploring how layers of computation help in recognizing complex patterns.
-  I learned about CNNs and used them for image-based tasks, including computer vision challenges.
+---
 
-Real-world Projects:
-[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html) 
-#
+## 📊 Machine Learning (ML)
 
-<h1 align="left" style="font-size: 24px;">
-  <img src="https://media.tenor.com/EtSxmQ8JUyYAAAAi/playstation-controler.gif" width="35px" height="30px" />
-  Reinforcement Learning
-</h1>
+### Why Machine Learning?
+Machine Learning captivates me with its ability to learn from data and make accurate predictions. I'm intrigued by how algorithms can identify hidden patterns in data that are invisible to the human eye. ML provides a strong foundation for understanding how machines can "learn" and evolve.
 
-> I explored Reinforcement Learning to understand how agents can learn optimal actions through rewards and interactions with their environment.
-  I experimented with classic algorithms like Q-Learning and DQN, applying them to simple games and navigation tasks to see how an agent improves over time without explicit labels.
+### Projects:
+- **[Bot Telegram](https://github.com/Finsa-SC/bot-telegram)** - Intelligent Telegram bot with ML-powered features
 
-Real-world Projects:
-[Frozen Lake](https://github.com/Finsa-SC/FrozenLake) 
-#
+---
 
-<h1 align="left" style="font-size: 24px;">
-  <img src="https://media.tenor.com/VDXyAUdbqQ8AAAAi/creepy-radio.gif" width="30px" height="30px" />
-  Computer Vision
-</h1>
+## 🧠 Deep Learning (DL)
 
-> I learned computer vision because I wanted to build systems that can "see" like humans —
-  whether it's for recognizing objects, reading handwriting, or helping robots navigate.
-  I made a digit recognizer using image processing and classification models!
+### Why Deep Learning?
+Deep Learning attracts my attention because of its ability to mimic how the human brain works through neural networks. I'm fascinated by how complex architectures can solve tasks previously considered impossible for computers, such as image recognition and natural language processing.
 
-Real-world Projects:
-[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html) [Digit Recognition](https://github.com/Finsa-SC/digit-recognition)
-#
+### Projects:
+- **[Digit Recognition](https://github.com/Finsa-SC/digit-recognition)** - Handwritten digit classification using neural networks
+- **[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html)** - Deep learning-based facial recognition attendance system
 
-<h1 align="left" style="font-size: 24px;">
-  <img src="https://media.tenor.com/NBKNM3Sw4jMAAAAi/gears.gif" width="50px" height="30px" />
-  Automation
-</h1>
+---
 
-> I explored automation to improve efficiency and eliminate repetitive tasks.
-  I learned to write Python scripts and APIs to automate data processing, testing, and even deployment flows.
+## 👾 Reinforcement Learning (RL)
 
-Real-world Projects:
-[Github_Uploader](https://github.com/Finsa-SC/-AutoGitHub-Uploader-) [Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html) [Virtual Assistans](https://github.com/Finsa-SC/Virtual-Assistans)
-#
+### Why Reinforcement Learning?
+I explored Reinforcement Learning to understand how agents can learn optimal actions through rewards and interactions with their environment. I'm fascinated by how agents can improve their decision-making over time without explicit supervision, learning through trial and error just like humans do.
+
+### Projects:
+- **[Frozen Lake](https://github.com/Finsa-SC/FrozenLake)** - Q-Learning implementation for navigation in a frozen lake environment
+
+---
+
+## 👁️ Computer Vision (CV)
+
+### Why Computer Vision?
+Computer Vision captivates me because it gives computers "eyes" to understand the visual world. I'm interested in how this technology can analyze, process, and understand images and videos. CV opens up opportunities to create applications that can interact with visual environments in real-time.
+
+### Projects:
+- **[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html)** - Real-time face recognition system for attendance tracking
+- **[Digit Recognition](https://github.com/Finsa-SC/digit-recognition)** - Computer vision approach to handwritten digit recognition
+
+---
+
+## ⚙️ Automation
+
+### Why Automation?
+Automation appeals to me because of its ability to optimize efficiency and reduce repetitive tasks. I believe automation is key to increasing productivity and enabling focus on more creative and strategic tasks. This field provides unique satisfaction when seeing complex processes become simple.
+
+### Projects:
+- **[GitHub Uploader](https://github.com/Finsa-SC/-AutoGitHub-Uploader-)** - Automated tool for streamlined GitHub repository management
+- **[Virtual Assistant](https://github.com/Finsa-SC/Virtual-Assistans)** - Automated Windows assistant for task management
+- **[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html)** - Automated attendance system using facial recognition
+
+---
+
+## 🔐 Cryptography & Blockchain
+
+### Why Cryptography & Blockchain?
+Blockchain Development intrigues me because of its potential to create decentralized, transparent, and secure systems. I'm fascinated by how cryptographic hashing, distributed consensus, and smart contracts can revolutionize traditional systems. This field represents the future of trustless interactions and opens possibilities for building applications that operate without central authorities.
+
+### Projects:
+- **[Blockchain](https://github.com/Finsa-SC/BlockChain)** - Custom blockchain implementation exploring consensus mechanisms
+- **[Hashing](https://github.com/Finsa-SC/Hashing)** - Cryptographic hashing algorithms and security implementations
+- **[Encryption Simulation](https://github.com/Finsa-SC/Encription_Simulitation)** - Various encryption techniques and security protocols
+
+---
+
+## 📈 Continuous Learning
+
+Each field I've studied is interconnected and mutually reinforcing. This learning journey continues, and I'm always enthusiastic about exploring new technologies and applying the knowledge I've gained to more challenging projects.
+
+> *"Learning never exhausts the mind"* - Leonardo da Vinci
 
 <h1 align="center">
   <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40px" height="40px" />
