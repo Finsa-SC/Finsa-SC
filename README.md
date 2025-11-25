@@ -8,13 +8,14 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 
 <br clear="both">
 
-![snake_gif](https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg) 
+<div align="center">
 
-###
+<img src="https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg" />
 
-<img align="right" height="150" src="https://media.tenor.com/qU4ra1rU0gwAAAAi/japan-jpn.gif" /> <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Finsa-SC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Finsa-SC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Finsa-SC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
 </div>
 
 ###
@@ -29,7 +30,7 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 - 🧑🏻‍💻 I’m currently a student focused on computer science and artificial intelligence  
 - 🔭 Currently working on local AI models and fine-tuning with LoRA (Mistral-based)
 - 🌱 Learning ML, DL, CV and more about AI
-- 🐧 Daily driver: Ubuntu, terminal-first workflow (I love CLI!)  
+- 🐧 Daily driver: Arch Hyprland, terminal-first workflow (I love CLI!)  
 - 🧠 I always look for knowledge every day
 - 🎯 My long-term goal is to work in the tech industry in Japan  
 - 🐍 I really like the Python programming language
@@ -195,7 +196,8 @@ Each field I've studied is interconnected and mutually reinforcing. This learnin
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=40)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&logoWidth=40)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=black&logoWidth=40&labelColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoWidth=40)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00A9A5?style=for-the-badge&logo=hyprland&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&logoWidth=40)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&logoWidth=40)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&logoWidth=40)
