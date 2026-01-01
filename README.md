@@ -75,7 +75,6 @@ My previous work focused on understanding concepts, not production-scale systems
 - **Face Attendance** – Face recognition-based attendance system
 
 ---
-> *"Learning never exhausts the mind"* - Leonardo da Vinci
 
 <br></br>
 <h1 align="center">
@@ -221,3 +220,6 @@ My previous work focused on understanding concepts, not production-scale systems
   Thanks for visiting my profile!  
   Let's build useful software together 🚀
 </div>
+
+<br></br>
+> *"Learning never exhausts the mind"* - Leonardo da Vinci
