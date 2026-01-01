@@ -12,126 +12,72 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 
 <img src="https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Finsa-SC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
 </div>
+
+<br><br>
 
 ###
 <br><br>
 
 
-<h1 align="center">
-  <img src="https://media.tenor.com/xn_BcZPJh6YAAAAi/stars-catharinas.gif" width="40px" height="40px" />
-  About Me <img align="right" height="300" src="https://media.tenor.com/nW_yTOndgdcAAAAi/heart-cat.gif" />
-</h1> 
+- 🧑🏻‍💻 Software development student from Indonesia  
+- 📱 Primary focus on **Android development (Kotlin, XML, RecyclerView, REST API)**
+- 🖥️ Experienced with **desktop & system-level development** using C#, .NET, and Linux
+- 🐧 Daily driver: **Arch Linux (Hyprland)** — terminal-first workflow
+- ⚙️ Interested in application architecture, data flow, and UI behavior
+- 🧠 Strong emphasis on fundamentals, clean structure, and maintainable code
+- 🤖 Artificial Intelligence is a **long-term interest**, currently postponed to strengthen software engineering skills
+- 🎯 Career goal: work in the **Japanese tech industry**
+- ☀️ Consistently building projects as part of daily learning
 
-- 🧑🏻‍💻 I’m currently a student focused on computer science and artificial intelligence  
-- 🔭 Currently working on local AI models and fine-tuning with LoRA (Mistral-based)
-- 🌱 Learning ML, DL, CV and more about AI
-- 🐧 Daily driver: Arch Hyprland, terminal-first workflow (I love CLI!)  
-- 🧠 I always look for knowledge every day
-- 🎯 My long-term goal is to work in the tech industry in Japan  
-- 🐍 I really like the Python programming language
-- ☀️ I build projects as part of my daily routine
-
-<br><br>
+---
 
 <h1 align="center">
-  <img src="https://media.tenor.com/2jQhjfsDZSEAAAAi/advance-emoji-no-copyright-emoji.gif" width="60px" height="60px" />
-  what did I learn and did I make?
+  <img src="https://media.tenor.com/2jQhjfsDZSEAAAAi/advance-emoji-no-copyright-emoji.gif" width="55px"/>
+  What I Learn & Build
 </h1>
 
+## 📱 Android & Application Development
 
-# 🚀 Learning Journey
-
-Here's my learning journey in the ever-evolving field of technology. Each domain I've explored offers unique challenges and attractions that drive me to continuously explore and develop my capabilities.
-
----
-
-## 🤖 Artificial Intelligence (AI)
-
-### Why AI?
-AI fascinates me because of its ability to mimic human intelligence and solve complex problems. I believe AI is the future of technology that will transform how we interact with the digital world. This field provides opportunities to create innovative solutions that can enhance our daily lives.
+### Why Android?
+Android development allows me to combine logic, UI, and real-world use cases.
+I enjoy managing UI state, adapters, API-driven data, and understanding how user interactions flow through the system.
 
 ### Projects:
-- **[Virtual Assistant](https://github.com/Finsa-SC/Virtual-Assistans)** - Windows-based virtual assistant with AI capabilities
+- **Gawe-an (Job Finder App)**  
+  Android application built for **LKS competition**, focused on job listings and job seekers  
+  Tech: Kotlin, RecyclerView, REST API, clean UI flow
 
 ---
 
-## 📊 Machine Learning (ML)
+## 🖥️ Desktop & System Development
 
-### Why Machine Learning?
-Machine Learning captivates me with its ability to learn from data and make accurate predictions. I'm intrigued by how algorithms can identify hidden patterns in data that are invisible to the human eye. ML provides a strong foundation for understanding how machines can "learn" and evolve.
+### Why Desktop & System-Level?
+Working close to the system helps me understand how applications interact with the OS, files, processes, and memory.
+I enjoy building practical tools rather than purely visual applications.
 
-### Projects:
-- **[Bot Telegram](https://github.com/Finsa-SC/bot-telegram)** - Intelligent Telegram bot with ML-powered features
-
----
-
-## 🧠 Deep Learning (DL)
-
-### Why Deep Learning?
-Deep Learning attracts my attention because of its ability to mimic how the human brain works through neural networks. I'm fascinated by how complex architectures can solve tasks previously considered impossible for computers, such as image recognition and natural language processing.
-
-### Projects:
-- **[Digit Recognition](https://github.com/Finsa-SC/digit-recognition)** - Handwritten digit classification using neural networks
-- **[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html)** - Deep learning-based facial recognition attendance system
+### Technologies:
+- C#, .NET
+- Linux-based workflows
+- CLI-oriented tools
 
 ---
 
-## 👾 Reinforcement Learning (RL)
+## 🤖 Artificial Intelligence (Long-term Interest)
 
-### Why Reinforcement Learning?
-I explored Reinforcement Learning to understand how agents can learn optimal actions through rewards and interactions with their environment. I'm fascinated by how agents can improve their decision-making over time without explicit supervision, learning through trial and error just like humans do.
+AI is a field I plan to return to after solidifying my foundation as a software engineer.
+My previous work focused on understanding concepts, not production-scale systems.
 
-### Projects:
-- **[Frozen Lake](https://github.com/Finsa-SC/FrozenLake)** - Q-Learning implementation for navigation in a frozen lake environment
-
----
-
-## 👁️ Computer Vision (CV)
-
-### Why Computer Vision?
-Computer Vision captivates me because it gives computers "eyes" to understand the visual world. I'm interested in how this technology can analyze, process, and understand images and videos. CV opens up opportunities to create applications that can interact with visual environments in real-time.
-
-### Projects:
-- **[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html)** - Real-time face recognition system for attendance tracking
-- **[Digit Recognition](https://github.com/Finsa-SC/digit-recognition)** - Computer vision approach to handwritten digit recognition
+### Selected Projects:
+- **Virtual Assistant** – Windows-based assistant with basic AI features
+- **Telegram Bot** – ML-powered response handling
+- **Digit Recognition** – Neural network for handwritten digits
+- **Face Attendance** – Face recognition-based attendance system
 
 ---
-
-## ⚙️ Automation
-
-### Why Automation?
-Automation appeals to me because of its ability to optimize efficiency and reduce repetitive tasks. I believe automation is key to increasing productivity and enabling focus on more creative and strategic tasks. This field provides unique satisfaction when seeing complex processes become simple.
-
-### Projects:
-- **[GitHub Uploader](https://github.com/Finsa-SC/-AutoGitHub-Uploader-)** - Automated tool for streamlined GitHub repository management
-- **[Virtual Assistant](https://github.com/Finsa-SC/Virtual-Assistans)** - Automated Windows assistant for task management
-- **[Face Attendance](https://github.com/Finsa-SC/Face-Attendance-with-html)** - Automated attendance system using facial recognition
-
----
-
-## 🔐 Cryptography & Blockchain
-
-### Why Cryptography & Blockchain?
-Blockchain Development intrigues me because of its potential to create decentralized, transparent, and secure systems. I'm fascinated by how cryptographic hashing, distributed consensus, and smart contracts can revolutionize traditional systems. This field represents the future of trustless interactions and opens possibilities for building applications that operate without central authorities.
-
-### Projects:
-- **[Blockchain](https://github.com/Finsa-SC/BlockChain)** - Custom blockchain implementation exploring consensus mechanisms
-- **[Hashing](https://github.com/Finsa-SC/Hashing)** - Cryptographic hashing algorithms and security implementations
-- **[Encryption Simulation](https://github.com/Finsa-SC/Encription_Simulitation)** - Various encryption techniques and security protocols
-
----
-
-## 📈 Continuous Learning
-
-Each field I've studied is interconnected and mutually reinforcing. This learning journey continues, and I'm always enthusiastic about exploring new technologies and applying the knowledge I've gained to more challenging projects.
-
 > *"Learning never exhausts the mind"* - Leonardo da Vinci
 
+<br></br>
 <h1 align="center">
   <img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="40px" height="40px" />
   Tech Stack
@@ -272,7 +218,6 @@ Each field I've studied is interconnected and mutually reinforcing. This learnin
 ###
 
 <div align="center">
-  Thanks for visiting my profile! Let's connect and build cool things together! ✨<br>
-  Don't forget to give a ⭐ if you like my work!
+  Thanks for visiting my profile!  
+  Let's build useful software together 🚀
 </div>
-
