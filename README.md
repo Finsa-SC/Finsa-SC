@@ -150,7 +150,6 @@ My previous work focused on understanding concepts, not production-scale systems
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoWidth=40)
 ![CSV](https://img.shields.io/badge/CSV-FFD700?style=for-the-badge&logo=filezilla&logoColor=black&logoWidth=40)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-2C2C2C?style=for-the-badge&logoColor=white)
 </div>
 
 ##
