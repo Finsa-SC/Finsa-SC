@@ -19,61 +19,42 @@ I'm a student from Indonesia with a strong passion for working in Japan.
 ###
 <br><br>
 
+## 🧠 About Me
 
-- 🧑🏻‍💻 Software development student from Indonesia  
-- 📱 Primary focus on **Android development (Kotlin, XML, RecyclerView, REST API)**
-- 🖥️ Experienced with **desktop & system-level development** using C#, .NET, and Linux
-- 🐧 Daily driver: **Arch Linux (Hyprland)** — terminal-first workflow
-- ⚙️ Interested in application architecture, data flow, and UI behavior
-- 🧠 Strong emphasis on fundamentals, clean structure, and maintainable code
-- 🤖 Artificial Intelligence is a **long-term interest**, currently postponed to strengthen software engineering skills
-- 🎯 Career goal: work in the **Japanese tech industry**
-- ☀️ Consistently building projects as part of daily learning
+- 🎓 Background in software development (Android, .NET, Linux)
+- 🔄 Currently rebuilding my knowledge from the ground up in Cyber Security
+- 🐧 Daily driver: Arch Linux
+- 🎯 Long-term goal: work in the Japanese tech industry
+
+Right now, I am focusing on understanding how systems and networks actually work before touching security tools.
 
 ---
 
-<h1 align="center">
-  <img src="https://media.tenor.com/2jQhjfsDZSEAAAAi/advance-emoji-no-copyright-emoji.gif" width="55px"/>
-  What I Learn & Build
-</h1>
+## 🔐 Current Learning Phase
 
-## 📱 Android & Application Development
+I believe security starts with fundamentals.
 
-### Why Android?
-Android development allows me to combine logic, UI, and real-world use cases.
-I enjoy managing UI state, adapters, API-driven data, and understanding how user interactions flow through the system.
+### 🖥 Hardware & System
+- Basic computer architecture
+- How hardware components interact
+- How operating systems manage resources
 
-### Projects:
-- **Gawe-an (Job Finder App)**  
-  Android application built for **LKS competition**, focused on job listings and job seekers  
-  Tech: Kotlin, RecyclerView, REST API, clean UI flow
+### 🌐 Networking (Current Focus)
+- What is a network
+- How data travels between devices
+- Network traffic fundamentals
+- Preparing to learn IPv4 in depth
 
----
-
-## 🖥️ Desktop & System Development
-
-### Why Desktop & System-Level?
-Working close to the system helps me understand how applications interact with the OS, files, processes, and memory.
-I enjoy building practical tools rather than purely visual applications.
-
-### Technologies:
-- C#, .NET
-- Linux-based workflows
-- CLI-oriented tools
+I am intentionally avoiding tools for now and focusing on concepts first.
 
 ---
 
-## 🤖 Artificial Intelligence (Long-term Interest)
+## 📘 Learning Philosophy
 
-AI is a field I plan to return to after solidifying my foundation as a software engineer.
-My previous work focused on understanding concepts, not production-scale systems.
+Before learning how to attack or defend,  
+I want to understand how data moves, how systems communicate, and where weaknesses originate.
 
-### Selected Projects:
-- **Virtual Assistant** – Windows-based assistant with basic AI features
-- **Telegram Bot** – ML-powered response handling
-- **Digit Recognition** – Neural network for handwritten digits
-- **Face Attendance** – Face recognition-based attendance system
-
+Foundation first. Tools later.
 ---
 
 <br></br>
