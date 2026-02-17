@@ -88,19 +88,16 @@ Foundation first. Tools later.
 ![Sqlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=40)
 </div>
 
-### AI & ML Frameworks
-<div align="center">
-  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=40)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoWidth=40)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=40)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=40)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=40)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
-![Pillow](https://img.shields.io/badge/Pillow-07405E?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
-![Face Recognition](https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
-</div>
+### 🌐 Networking Fundamentals
+
+![Ping](https://img.shields.io/badge/ping-222222?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Traceroute](https://img.shields.io/badge/traceroute-444444?style=for-the-badge&logo=linux&logoColor=white)
+![Netcat](https://img.shields.io/badge/netcat-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Dig](https://img.shields.io/badge/dig-DNS-blue?style=for-the-badge)
+![Whois](https://img.shields.io/badge/whois-lookup-orange?style=for-the-badge)
+![Host](https://img.shields.io/badge/host-DNS-lightgrey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 
 ### Web & API Frameworks
 <div align="center">
