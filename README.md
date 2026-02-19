@@ -75,9 +75,17 @@ Foundation first. Tools later.
   <img src="https://imgs.search.brave.com/bGfNOL9BPJEZt99g-4AW7xWxMs0l9qNiA331W2OhfIg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RTEyQVFHMHFwcThT/b296akEvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNzIw/XzEyODAvMC8xNTk2/Mzc4NjYxODIxP2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD0yb3Fo/RmdlangySVZ1UXZD/czcxcmNXaWhGd0N5/RnhhRmk1NnhVRThh/NTJN" height="40" alt="visual basic logo" />
 
 
-
-
 </div>
+
+
+### 🔐 Network & Security Skills
+📦 Wireshark: Packet Analysis
+🗺️ Nmap: Network Scanning
+🧬 dig: DNS Analysis
+🧭 traceroute: Network Diagnostics
+🧷 ss, netcat: Socket & Connection Analysis
+📉 nload: Traffic Monitoring
+
 
 ### Databases Management System
 <div align="center">
@@ -87,17 +95,6 @@ Foundation first. Tools later.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=40)
 ![Sqlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=40)
 </div>
-
-### 🌐 Networking Fundamentals
-
-![Ping](https://img.shields.io/badge/ping-222222?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Traceroute](https://img.shields.io/badge/traceroute-444444?style=for-the-badge&logo=linux&logoColor=white)
-![Netcat](https://img.shields.io/badge/netcat-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Dig](https://img.shields.io/badge/dig-DNS-blue?style=for-the-badge)
-![Whois](https://img.shields.io/badge/whois-lookup-orange?style=for-the-badge)
-![Host](https://img.shields.io/badge/host-DNS-lightgrey?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
 
 ### Web & API Frameworks
 <div align="center">
