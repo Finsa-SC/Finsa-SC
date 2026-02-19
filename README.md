@@ -80,10 +80,15 @@ Foundation first. Tools later.
 
 ### 🔐 Network & Security Skills
 📦 Wireshark: Packet Analysis
+
 🗺️ Nmap: Network Scanning
+
 🧬 dig: DNS Analysis
+
 🧭 traceroute: Network Diagnostics
+
 🧷 ss, netcat: Socket & Connection Analysis
+
 📉 nload: Traffic Monitoring
 
 
