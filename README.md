@@ -73,8 +73,6 @@ Foundation first. Tools later.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
   <img src="https://imgs.search.brave.com/bGfNOL9BPJEZt99g-4AW7xWxMs0l9qNiA331W2OhfIg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RTEyQVFHMHFwcThT/b296akEvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNzIw/XzEyODAvMC8xNTk2/Mzc4NjYxODIxP2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD0yb3Fo/RmdlangySVZ1UXZD/czcxcmNXaWhGd0N5/RnhhRmk1NnhVRThh/NTJN" height="40" alt="visual basic logo" />
-
-
 </div>
 
 
@@ -84,13 +82,6 @@ Foundation first. Tools later.
 🗺️ Nmap: Network Scanning
 
 🧬 dig: DNS Analysis
-
-🧭 traceroute: Network Diagnostics
-
-🧷 ss, netcat: Socket & Connection Analysis
-
-📉 nload: Traffic Monitoring
-
 
 ### Databases Management System
 <div align="center">
@@ -146,8 +137,6 @@ Foundation first. Tools later.
 </div>
 
 ##
-
-###
 
 <h1 align="center">
   <img src="https://media.tenor.com/oZZYN34BQXwAAAAi/cell-phone.gif" width="50px" height="50px" />
