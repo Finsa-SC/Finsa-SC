@@ -45,8 +45,6 @@ I believe security starts with fundamentals.
 - Network traffic fundamentals
 - Preparing to learn IPv4 in depth
 
-I am intentionally avoiding tools for now and focusing on concepts first.
-
 ---
 
 ## 📘 Learning Philosophy
@@ -54,7 +52,6 @@ I am intentionally avoiding tools for now and focusing on concepts first.
 Before learning how to attack or defend,  
 I want to understand how data moves, how systems communicate, and where weaknesses originate.
 
-Foundation first. Tools later.
 ---
 
 <br></br>
