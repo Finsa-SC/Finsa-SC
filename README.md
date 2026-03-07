@@ -2,6 +2,9 @@
   <img src="assets/gifMidori.gif" alt="Midori" width="800"/>
   <h1>Hi
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" />! I'm Finn</h1>
+  <div align="center">
+    <img src="https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg" />
+  </div>
   <p><b>Aspiring Security Engineer | Arch Linux Enthusiast | Tech Student</b></p>
   <p><i>"Understanding systems from the hardware up to the packets."</i></p>
 </div>
