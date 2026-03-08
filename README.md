@@ -1,8 +1,7 @@
 <div align="center">
   <img src="assets/gifMidori.gif" alt="Midori" width="800"/>
-  <h1>Hi
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" />! I'm Finn</h1>
-  <div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?    font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+Profile;I'm+Finsa+Kusuma+Putra;Cyber+Security+Enthusiast;My+Goal+Is+Go+To+Work+In+Japan" alt="Typing SVG" />
     <img src="https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg" />
   </div>
   <p><b>Aspiring Security Engineer | Arch Linux Enthusiast | Tech Student</b></p>
@@ -20,14 +19,13 @@
 ---
 
 ### 🚀 Technical Focus
-
 | Category | Tools & Tech |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)|
-| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-**Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
-| **Security & Net** | `Wireshark` • `Nmap` • `Packet Analysis` • `Linux Auditing` |
-| **OS & Env** | ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,bash,cs,kotlin&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,dotnet,docker&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" /> |
+| **Security & Net** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white) |
+| **OS & Env** | <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,neovim&theme=dark" />  |
 
 ---
 
@@ -52,3 +50,4 @@
 <div align="center">
   <sub>Built with ❤️ on Arch Linux</sub>
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
