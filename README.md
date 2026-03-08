@@ -1,9 +1,8 @@
 <div align="center">
   <img src="assets/gifMidori.gif" alt="Midori" width="800"/>
   
-  <img src="https://readme-typing-svg.demolab.com?    font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+Profile;I'm+Finsa+Kusuma+Putra;Cyber+Security+Enthusiast;My+Goal+Is+Go+To+Work+In+Japan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+Profile;I'm+Finsa+Kusuma+Putra;Cyber+Security+Enthusiast;My+Goal+Is+Go+To+Work+In+Japan" alt="Typing SVG" />
     <img src="https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg" />
-  </div>
   <p><b>Aspiring Security Engineer | Arch Linux Enthusiast | Tech Student</b></p>
   <p><i>"Understanding systems from the hardware up to the packets."</i></p>
 </div>
