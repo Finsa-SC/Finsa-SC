@@ -18,14 +18,14 @@
 ---
 
 ### 🚀 Technical Focus
+
 | Category | Tools & Tech |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,bash,cs,kotlin&theme=dark" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,dotnet,docker&theme=dark" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" /> |
-| **Security & Net** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white) |
-| **OS & Env** | <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,neovim&theme=dark" />  |
-
+| **Security & Net** | <img src="https://imgs.search.brave.com/X0I69Iok4hdJOOeYyxIJ0QjiVJGR89u3VYpPciRPDqs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMTU5L1BO/Ry85Ni93aXJlc2hh/cmtfMjIzODgucG5n" width="53" height="53" alt="Wireshark"> <img src="https://nmap.org/images/sitelogo-nmap.svg" width="63" height="63" alt="Nmap"> <img src="https://imgs.search.brave.com/GV8vwaLRwspCIEmyK-S1x6F0RDG_XBGSgIOozpyC1_s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV0ZmlsdGVyLm9y/Zy9pbWFnZXMvbmV0/ZmlsdGVyLWxvZ28z/LnBuZw" width="93" height="93" alt="NFTables"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/FalcoSecurityLogo.png" width="103" height="103" alt="Falco"> |
+| **OS & Env** | <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,neovim&theme=dark" /> |
 ---
 
 ### 📊 GitHub Activity
