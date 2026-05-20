@@ -1,21 +1,21 @@
 <div align="center">
   <img src="assets/gifMidori.gif" alt="Midori" width="800"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Terminal;I'm+Finsa+Kusuma+Putra;Aspiring+Security+Engineer;Target:+Tech+Industry+in+Japan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Terminal;I'm+Finsa+Kusuma+Putra;Aspiring+Penetration+Tester;Target:+Tech+Industry+in+Japan" alt="Typing SVG" />
   
   <img src="https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg" />
   
-  <p><b>Security Specialist | Arch Linux Enthusiast | CTF Player</b></p>
-  <p><i>"Understanding systems from the hardware up to the packets."</i></p>
+  <p><b>Penetration Tester | Arch Linux Enthusiast | CTF Player</b></p>
+  <p><i>"Breaking code to patch the gaps, hunting bugs from packets to apps."</i></p>
 </div>
 
 ---
 
 ### 🧠 Profile Overview
-- 🎯 **Primary Goal:** Building a career in the Japanese tech industry.
-- 🐧 **Daily Driver:** **Arch Linux** (Hyprland) for productivity & **Kali Linux** for offensive tasks.
-- 🔄 **Transition:** Moving from Software Development (.NET/Android) to deep-dive **Cyber Security**.
-- 🛡️ **Philosophy:** Breaking systems to understand how to build them better.
+- 🎯 **Primary Goal:** Building a career as an Offensive Security Specialist in the Japanese tech industry.
+- 🐧 **Daily Driver:** **Arch Linux** (Hyprland) for workflow efficiency & **Kali Linux** for dedicated penetration testing.
+- 🔄 **Transition:** Leveraging a strong background in Software Development (.NET/Android) to deep-dive into **Offensive Security**.
+- 🛡️ **Philosophy:** Securing infrastructure by thinking and acting exactly like an adversary.
 
 ---
 
@@ -25,7 +25,7 @@
 | :--- | :--- |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=arch,kali,linux&theme=dark" /> |
 | **Development** | <img src="https://skillicons.dev/icons?i=python,bash,cs,kotlin,fastapi,dotnet&theme=dark" /> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,git,github,neovim,vscode&theme=dark" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,git,github,pycharm&theme=dark" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" /> |
 
 ---
@@ -47,11 +47,11 @@
 
 ---
 
-### 🛡️ Cyber Security Focus
-- **Network Penetration:** Service enumeration & vulnerability assessment using **Nmap**.
-- **Brute Forcing:** Credential auditing via **Hydra** & offline password cracking with **John the Ripper**.
-- **Web Exploitation:** Automated SQL Injection testing with **Sqlmap** and manual intercept analysis.
-- **Traffic Analysis:** Deep packet inspection with **Wireshark** & **Tshark** to identify malicious patterns.
+### 🎯 Penetration Testing Focus
+- **Network Reconnaissance:** Target enumeration, service identification, and vulnerability discovery using **Nmap**.
+- **Web & Exploitation:** Vulnerability assessment including automated SQL Injection through **Sqlmap** and exploit deployment via **Metasploit**.
+- **Credential Auditing:** Online brute-force simulation using **Hydra** and offline password cracking with **John the Ripper**.
+- **Traffic Inspection:** Capturing and sniffing network packets with **Wireshark** & **Tshark** for post-exploitation analysis or defense evaluation.
 
 ---
 
