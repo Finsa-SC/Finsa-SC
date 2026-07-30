@@ -1,61 +1,195 @@
 <div align="center">
   <img src="assets/gifMidori.gif" alt="Midori" width="800"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Terminal;I'm+Finsa+Kusuma+Putra;Aspiring+Penetration+Tester;Target:+Tech+Industry+in+Japan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Terminal;I'm+Finsa+Kusuma+Putra;Linux+%26+DevOps+Enthusiast;Building+Reliable+Systems+with+Python;Target:+Tech+Industry+in+Japan" />
 
   <img src="https://github.com/Finsa-SC/Finsa-SC/blob/output/github-snake-dark.svg" />
 
-  <p><b>Penetration Tester | Arch Linux Enthusiast | CTF Player</b></p>
-  <p><i>"Breaking code to patch the gaps, hunting bugs from packets to apps."</i></p>
+  <p><b>Linux • DevOps • Python Automation</b></p>
 
-  <a href="https://www.linkedin.com/in/finsa-kusuma-putra-63113a334/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:finsakusumaputra@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/finsa080200/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <p>
+    <i>"Understanding systems before automating them."</i>
+  </p>
+
+  <a href="https://www.linkedin.com/in/finsa-kusuma-putra-63113a334/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:finsakusumaputra@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/finsa080200/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
-### 🧠 Who I Am
-I'm a security-focused engineer transitioning from **Software Development (.NET / Android)** into **Offensive Security**. My goal is to work as a Penetration Tester / Security Analyst in Japan's tech industry, bringing a builder's understanding of how systems work to the job of breaking (and fixing) them.
+# 🧠 Who Am I
 
-- 🎯 **Current Focus:** Network & web application penetration testing
-- 🐧 **Daily Driver:** Arch Linux (Hyprland) for workflow, Kali Linux for engagements
-- 🛡️ **Philosophy:** Secure infrastructure by thinking and acting like an adversary
-- 🗾 **Career Target:** Offensive Security roles in Japan — currently building Japanese language + industry-specific certifications alongside technical skills
+Hi!
 
----
+I'm **Finsa Kusuma Putra**, a student passionate about **Linux, DevOps, and infrastructure automation**.
 
-### 🎯 What I Do
+Rather than memorizing commands, I enjoy understanding how systems work internally, then building tools that automate real operational tasks.
 
-| Phase | Focus | Tools |
-| :--- | :--- | :--- |
-| **Recon** | Target enumeration, service & version fingerprinting | `Nmap` |
-| **Exploitation** | Web app vulnerability assessment, SQL injection, exploit deployment | `Sqlmap`, `Metasploit` |
-| **Credential Auditing** | Online brute-force simulation, offline hash cracking | `Hydra`, `John the Ripper` |
-| **Traffic Analysis** | Packet capture & inspection for post-exploitation or defense review | `Wireshark`, `Tshark` |
-| **Hardening** | Firewall rules & runtime threat detection | `NFTables`, `Falco` |
+I'm currently focusing on building a solid foundation in:
 
----
+- 🐧 Linux System Administration
+- 🐍 Python Automation
+- 📝 Bash Scripting
+- ⚙️ Systemd & Linux Services
+- 📦 Backup & Restore Systems
+- 🌐 Networking Fundamentals
+- 🐳 Container Technologies
 
-### 🚀 Technical Arsenal
-
-| Category | Stack |
-| :--- | :--- |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=arch,kali,linux&theme=dark" /> |
-| **Development** | <img src="https://skillicons.dev/icons?i=python,bash,cs,kotlin,fastapi,dotnet&theme=dark" /> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,git,github,pycharm&theme=dark" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" /> |
+My long-term goal is to become a **DevOps Engineer** in Japan's tech industry.
 
 ---
 
-### 📚 Currently Leveling Up
-- 🐍 Deepening **Python** for security tooling — scripting, automation, and working through relevant libraries (e.g. `requests`, `scapy`, `socket`)
-- 🧩 Deliberately training **logic & critical thinking** through structured problem-solving — the foundation before jumping into CTFs
-- 🎯 Next milestone: first CTF platforms (TryHackMe / HackTheBox) once fundamentals feel solid
+# 🚀 Current Focus
+
+Currently I'm learning by building real projects instead of following tutorials.
+
+### Topics
+
+- Linux Internals
+- DevOps Fundamentals
+- Python CLI Applications
+- Automation
+- Logging
+- System Services
+- Backup Strategy
+- Networking
+
+---
+
+# 📦 Featured Project
+
+## File Backuper
+
+A lightweight backup utility written in Python.
+
+Current features:
+
+- TOML configuration
+- CLI interface
+- zstd compression
+- Timestamped archive naming
+- systemd integration
+- Retention policy *(Work In Progress)*
+
+Purpose:
+
+Learn how production-ready CLI applications are designed while solving a real-world operational problem.
+
+---
+
+# 🛠 Tech Stack
+
+## Operating System
+
+- Arch Linux (Daily Driver)
+
+## Languages
+
+- Python
+- Bash
+
+## Tools
+
+- Git
+- Docker *(Learning)*
+- systemd
+- journalctl
+- nftables
+- PostgreSQL
+- SQLite
+
+---
+
+# 📚 Currently Learning
+
+## Linux
+
+- Permissions & ACL
+- Processes
+- systemd
+- journald
+- Filesystem
+- Networking
+
+## Python
+
+- CLI Applications
+- subprocess
+- pathlib
+- logging
+- argparse
+- dataclasses
+
+## DevOps
+
+- Docker
+- Nginx
+- Backup Strategy
+- Monitoring
+- Infrastructure Automation
+
+---
+
+# 🎯 Roadmap
+
+### ✅ Comfortable
+
+- Linux
+- Python
+- Bash
+- Git
+
+### 🔄 Learning
+
+- Docker
+- Nginx
+- PostgreSQL
+- Monitoring
+- CI/CD
+
+### 📍 Next
+
+- Kubernetes
+- Terraform
+- Ansible
+- Cloud Platforms
+
+---
+
+# 💡 Philosophy
+
+I enjoy understanding how software works behind the scenes before using it.
+
+My goal isn't just to make something work.
+
+It's to understand:
+
+- why it works,
+- how it fails,
+- and how to make it reliable.
 
 ---
 
 <div align="center">
-  <sub>Decrypted with ❤️ on Arch Linux</sub>
+
+### Thanks for visiting my profile!
+
+Always learning.
+
+Always improving.
+
+One project at a time.
+
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
