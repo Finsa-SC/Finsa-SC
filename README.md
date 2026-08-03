@@ -27,169 +27,46 @@
 
 ---
 
-# 🧠 Who Am I
+## About Me
 
-Hi!
+I'm a student focused on **Linux system administration, DevOps practices, and infrastructure automation**. Instead of memorizing commands, I like understanding how systems work internally, then building tools that automate real operational tasks.
 
-I'm **Finsa Kusuma Putra**, a student passionate about **Linux, DevOps, and infrastructure automation**.
-
-Rather than memorizing commands, I enjoy understanding how systems work internally, then building tools that automate real operational tasks.
-
-I'm currently focusing on building a solid foundation in:
-
-- 🐧 Linux System Administration
-- 🐍 Python Automation
-- 📝 Bash Scripting
-- ⚙️ Systemd & Linux Services
-- 📦 Backup & Restore Systems
-- 🌐 Networking Fundamentals
-- 🐳 Container Technologies
-
-My long-term goal is to become a **DevOps Engineer** in Japan's tech industry.
+Long-term goal: becoming a **DevOps Engineer** in Japan's tech industry.
 
 ---
 
-# 🚀 Current Focus
+## Featured Project — File Backuper
 
-Currently I'm learning by building real projects instead of following tutorials.
+A lightweight backup utility written in Python, built to understand how production-ready CLI tools are designed while solving a real operational problem.
 
-### Topics
-
-- Linux Internals
-- DevOps Fundamentals
-- Python CLI Applications
-- Automation
-- Logging
-- System Services
-- Backup Strategy
-- Networking
-
----
-
-# 📦 Featured Project
-
-## File Backuper
-
-A lightweight backup utility written in Python.
-
-Current features:
-
-- TOML configuration
+- TOML-based configuration
 - CLI interface
 - zstd compression
 - Timestamped archive naming
 - systemd integration
-- Retention policy *(Work In Progress)*
-
-Purpose:
-
-Learn how production-ready CLI applications are designed while solving a real-world operational problem.
+- Retention policy *(in progress)*
 
 ---
 
-# 🛠 Tech Stack
+## Skills
 
-## Operating System
+| Category | Comfortable | Learning | Next |
+|---|---|---|---|
+| **OS & Shell** | Arch Linux, Bash | Networking Fundamentals | — |
+| **Languages** | Python | — | — |
+| **Infra & Tools** | Git, systemd, journalctl | Docker, Nginx, PostgreSQL, Monitoring, CI/CD | Kubernetes, Terraform, Ansible, Cloud Platforms |
 
-- Arch Linux (Daily Driver)
-
-## Languages
-
-- Python
-- Bash
-
-## Tools
-
-- Git
-- Docker *(Learning)*
-- systemd
-- journalctl
-- nftables
-- PostgreSQL
-- SQLite
+**Currently going deeper on:** Linux internals (permissions, ACL, processes, filesystem) and Python CLI development (subprocess, pathlib, argparse, dataclasses, logging).
 
 ---
 
-# 📚 Currently Learning
+## Philosophy
 
-## Linux
-
-- Permissions & ACL
-- Processes
-- systemd
-- journald
-- Filesystem
-- Networking
-
-## Python
-
-- CLI Applications
-- subprocess
-- pathlib
-- logging
-- argparse
-- dataclasses
-
-## DevOps
-
-- Docker
-- Nginx
-- Backup Strategy
-- Monitoring
-- Infrastructure Automation
-
----
-
-# 🎯 Roadmap
-
-### ✅ Comfortable
-
-- Linux
-- Python
-- Bash
-- Git
-
-### 🔄 Learning
-
-- Docker
-- Nginx
-- PostgreSQL
-- Monitoring
-- CI/CD
-
-### 📍 Next
-
-- Kubernetes
-- Terraform
-- Ansible
-- Cloud Platforms
-
----
-
-# 💡 Philosophy
-
-I enjoy understanding how software works behind the scenes before using it.
-
-My goal isn't just to make something work.
-
-It's to understand:
-
-- why it works,
-- how it fails,
-- and how to make it reliable.
-
----
+I don't just want things to work — I want to understand why they work, how they fail, and how to make them reliable.
 
 <div align="center">
-
-### Thanks for visiting my profile!
-
-Always learning.
-
-Always improving.
-
-One project at a time.
-
+  <br>
+  <sub>Thanks for stopping by — always building, always learning.</sub>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
