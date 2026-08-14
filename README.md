@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/systemd-000000?style=flat&logo=systemd&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white"/>
 
 <br><br>
 
@@ -40,51 +42,72 @@
 
 I'm a student focused on **Linux system administration, DevOps practices, and infrastructure automation**.
 
-I enjoy understanding how systems work internally before automating them. Rather than collecting frameworks, I prefer building a solid foundation in operating systems, process management, networking, and automation.
+I enjoy understanding how systems work internally before automating them. My learning focuses on building a strong foundation in operating systems, process management, networking, scripting, software packaging, and deployment.
 
-My long-term goal is to become a **DevOps Engineer** in Japan.
+My long-term goal is to work as a **DevOps Engineer in Japan**.
 
 ---
 
 # Current Focus
 
-- Linux Internals
-- Bash Scripting
-- Python CLI Development
-- systemd & journald
-- Infrastructure Automation
-- DevOps Fundamentals
+* Linux Internals & System Administration
+* Bash Scripting
+* Python CLI Development
+* systemd & journald
+* Infrastructure Automation
+* Python Packaging & Distribution
+* CI/CD
+* DevOps Fundamentals
 
 ---
 
-# Highlight Projects
+# Projects
 
 ### Backup Service
 
-Production-oriented backup utility written in Python.
+A Python-based backup utility designed to integrate with Linux systems and systemd.
 
-- TOML configuration
-- CLI interface
-- Multiple compression formats
-- SHA256 verification
-- Manifest generation
-- Retention policy
-- systemd integration
+[Repository →](https://github.com/Finsa-SC/backup-service)
 
-➡️ Repository:
-https://github.com/Finsa-SC/backup-service
+### More Projects
+
+I build projects mainly to explore Linux, automation, infrastructure, and software engineering concepts.
+
+[View all repositories →](https://github.com/Finsa-SC?tab=repositories)
+
+---
+
+# Python Modules
+
+I also publish reusable Python packages through **PyPI**, turning some of my projects and tools into installable packages.
+
+### file-backuper
+
+Python package for the Backup Service.
+
+```bash
+pip install file-backuper
+```
+
+[PyPI →](https://pypi.org/project/file-backuper/)
+
+[Source →](https://github.com/Finsa-SC/backup-service)
+
+More packages will be added as I build and release new tools.
 
 ---
 
 # Tech Stack
 
-| Comfortable | Currently Learning | Future |
-|-------------|--------------------|--------|
-| Linux (Arch) | Docker | Kubernetes |
-| Python | Nginx | Terraform |
-| Bash | PostgreSQL | Ansible |
-| Git | Monitoring | Cloud Platforms |
-| systemd | CI/CD | |
+| Comfortable      | Currently Learning | Future          |
+| ---------------- | ------------------ | --------------- |
+| Linux            | Docker             | Kubernetes      |
+| Python           | Nginx              | Terraform       |
+| Bash             | PostgreSQL         | Ansible         |
+| Git              | Monitoring         | Cloud Platforms |
+| systemd          | CI/CD              |                 |
+| GitHub Actions   |                    |                 |
+| Python Packaging |                    |                 |
 
 ---
 
